@@ -4,5 +4,6 @@ rucak
 sok
 uzina
 pivo
+somersby
 vecera
 grickalice
