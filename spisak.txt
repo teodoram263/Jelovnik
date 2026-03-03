@@ -3,5 +3,6 @@ uzina
 rucak
 sok
 uzina
+pivo
 vecera
 grickalice
